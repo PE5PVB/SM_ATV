@@ -1,4 +1,4 @@
-# SM_ATV
+# SM ATV exciter for 23cm, 13cm or 6cm
 23cm, 13cm or 6cm analog ATV exciter
 
 For a while I was looking for a method to easily get on air on 6cm ATV. There are standard transmitters for sale, but those work with channels, have a different video pre-emphasis and are technically not that great either. In addition, it is also nice to build this yourself instead of connecting ready-made modules. But how do you do that? Mix, multiply or directly at the wanted frequency? During my search on AliExpress I came across three VCOs, one of which falls into our 6cm (SM5800) ATV band, the other two, 23cm (SM1200) and 13cm (SM2400). An idea was born. A transmitter, PLL controlled, baseband video in. Many similar circuits already exist, but they were designed quite a long time ago. Many parts are not or only poorly available and actually stop at 13cm. So, to keep it reproducible I have to start from scratch. We live in the 21st century and almost all parts today are SMD. Oops, I hope you keep reading, because I notice that there is a kind of fear of SMD within radio amateurism. Therefore first the following:
